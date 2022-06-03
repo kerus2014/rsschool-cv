@@ -7,19 +7,19 @@
 * GitHub: [pavel-kerus](https://github.com/kerus2014)
 * LinkedIn: [Pavel Kerus](https://www.linkedin.com/in/pavel-kerus-397839161/)
 ### Experience
-* RS SCHOOL | Trainee Front-end developer
- _Jun 2022 - Jan 2023_
+* RS SCHOOL | Trainee Front-end developer\
+ _Jun 2022 - Jan 2023_\
 Websites development
-* Construction company | Civil Engineer
- _Mar 2019 - Present_
+* Construction company | Civil Engineer\
+ _Mar 2019 - Present_\
 Performance of general contracting works for the construction of industrial and civil buildings
-* IT ACADEMY | Trainee UX/UI Design
-_Jun 2021 - Dec 2021_ 
-Development of a website and a mobile application
+* IT ACADEMY | Trainee UX/UI Design\
+_Jun 2021 - Dec 2021_\ 
+Development of a website and a mobile application\
 my works - [BEHANCE](https://www.behance.net/abef2689)
 
 ### Code example
- <html>
+``` <html>
 <head>
   <title>Multiplication Table</title>
   <script type="text/javascript">
@@ -52,6 +52,7 @@ my works - [BEHANCE](https://www.behance.net/abef2689)
 </head>
 <body>
 </body>
+```
 
 ### Skills & Tools
 * HTMS
@@ -65,19 +66,19 @@ my works - [BEHANCE](https://www.behance.net/abef2689)
 * Sketch
 
 ### Education
-* Belarusian National Technical University
-Bachelor's degree, Civil Engineering
+* Belarusian National Technical University\
+Bachelor's degree, Civil Engineering\
 _Sep 2014 - Jun 2019_
 
 ### Courses
-* RS SCHOOL
-Front-end developer
+* RS SCHOOL\
+Front-end developer\
 _Jun 2022 - Jan 2023_
-* IT Academy
-UX/UI Designer
+* IT Academy\
+UX/UI Designer\
 _Sep 2021 - Dec 2021_
-* IT Academy
-UX/UI Design Tools
+* IT Academy\
+UX/UI Design Tools\
 _Jul 2021 - Sep 2021_
 
 ### Language
