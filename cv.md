@@ -7,6 +7,7 @@
 * GitHub: [pavel-kerus](https://github.com/kerus2014)
 * LinkedIn: [Pavel Kerus](https://www.linkedin.com/in/pavel-kerus-397839161/)
 ### Experience
+* __road worker__\
 * __RS SCHOOL | Trainee Front-end developer__\
  _Jun 2022 - Jan 2023_\
 Websites development
