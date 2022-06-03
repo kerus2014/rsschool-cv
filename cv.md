@@ -14,8 +14,7 @@ Websites development
  _Mar 2019 - Present_\
 Performance of general contracting works for the construction of industrial and civil buildings
 * __IT ACADEMY | Trainee UX/UI Design__\
-_Jun 2021 - Dec 2021_
-
+_Jun 2021 - Dec 2021_\
 Development of a website and a mobile application\
 my works - [BEHANCE](https://www.behance.net/abef2689)
 
