@@ -7,14 +7,15 @@
 * GitHub: [pavel-kerus](https://github.com/kerus2014)
 * LinkedIn: [Pavel Kerus](https://www.linkedin.com/in/pavel-kerus-397839161/)
 ### Experience
-* RS SCHOOL | Trainee Front-end developer\
+* __RS SCHOOL | Trainee Front-end developer__\
  _Jun 2022 - Jan 2023_\
 Websites development
-* Construction company | Civil Engineer\
+* __Construction company | Civil Engineer__\
  _Mar 2019 - Present_\
 Performance of general contracting works for the construction of industrial and civil buildings
-* IT ACADEMY | Trainee UX/UI Design\
-_Jun 2021 - Dec 2021_\ 
+* __IT ACADEMY | Trainee UX/UI Design__\
+_Jun 2021 - Dec 2021_
+
 Development of a website and a mobile application\
 my works - [BEHANCE](https://www.behance.net/abef2689)
 
@@ -66,18 +67,18 @@ my works - [BEHANCE](https://www.behance.net/abef2689)
 * Sketch
 
 ### Education
-* Belarusian National Technical University\
+* __Belarusian National Technical University__\
 Bachelor's degree, Civil Engineering\
 _Sep 2014 - Jun 2019_
 
 ### Courses
-* RS SCHOOL\
+* __RS SCHOOL__\
 Front-end developer\
 _Jun 2022 - Jan 2023_
-* IT Academy\
+* __IT Academy__\
 UX/UI Designer\
 _Sep 2021 - Dec 2021_
-* IT Academy\
+* __IT Academy__\
 UX/UI Design Tools\
 _Jul 2021 - Sep 2021_
 
