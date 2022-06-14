@@ -1,1 +1,1 @@
-https://kerus2014.github.io/rsschool-cv/index
+https://kerus2014.github.io/rsschool-cv/
