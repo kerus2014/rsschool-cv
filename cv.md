@@ -65,3 +65,25 @@ my works - [BEHANCE](https://www.behance.net/abef2689)
 * Adobe XD
 * Sketch
 
+### Education
+* __Belarusian National Technical University__\
+Bachelor's degree, Civil Engineering\
+_Sep 2014 - Jun 2019_
+
+### Courses
+* __RS SCHOOL__\
+Front-end developer\
+_Sep 2022 - Feb 2023_
+* __IT Academy__\
+Basic knowledge HTML, CSS, Javascript\
+_Jul 2022 - Oct 2022_
+* __IT Academy__\
+UX/UI Designer\
+_Sep 2021 - Dec 2021_
+* __IT Academy__\
+UX/UI Design Tools\
+_Jul 2021 - Sep 2021_
+
+### Language
+* English (Pre-intermediate)
+* Russian (native)
