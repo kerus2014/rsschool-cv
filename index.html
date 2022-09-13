@@ -4,10 +4,155 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV</title>
-    <link rel="stylesheet" href="./style.css">
+    <title>cv</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;0,800;1,400&display=swap" rel="stylesheet">
 </head>
 <body>
-    
+    <header>
+        <nav>
+            <ul class="nav">
+            <li class="nav-list"><a href="#Experience">Experience</a></li>
+            <li class="nav-list"><a href="#Code&enspExample">Code Example</a></li>
+            <li class="nav-list"><a href="#Education">Education</a></li>
+            <li class="nav-list"><a href="#Project">Project</a></li>
+            <li class="nav-list"><a href="#Skills&Tools">Skills&Tools</a></li>
+            <li class="nav-list"><a href="#Courses">Courses</a></li>
+            <li class="nav-list"><a href="#Language">Language</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main> 
+        <div class="main_info">
+            <div class="profile">
+                <img src="assets/avatar.jpg" width=200 alt="my-photo">
+                <section class="name">
+                    <h1>Pavel Kerus</h1>
+                    <h2>Front-end developer</h2>
+                </section>
+            </div>
+            <div class="contacts">
+                <ul>
+                    <li>Email: kerus2014@gmail.com</li>
+                    <li>Phone: +375297444144</li>
+                    <li>GitHub: 
+                        <a href="https://github.com/kerus2014">pavel-kerus</a>
+                    </li>
+                    <li>LinkedIn: 
+                        <a href="linkedin.com/in/pavel-kerus-397839161/">Pavel Kerus</a>
+                    </li>
+                    <li><b>Minsk, Belarus</b></li>
+                </ul>
+            </div>
+        </div>
+        <div class="big_container">
+            <div class="sections_left">
+                <section>
+                <h3 id="Experience">Experience</h3>
+                <ul>
+                    <li class="exp_li">
+                        <p><b>SCHOOL | Trainee Front-end developer</b></p> 
+                        <p><i>Jun 2022 - Jan 2023</i></p> 
+                        <p>development</p> 
+                    </li>
+                    <li class="exp_li">
+                        <p><b>Construction company | Civil Engineer</b></p> 
+                        <p><i>Mar 2019 - Present</i></p> 
+                        <p>Performance of general contracting works for the construction of industrial and civil buildings</p> 
+                    </li>
+                    <li class="exp_li">
+                        <p><b>IT ACADEMY | Trainee UX/UI Design</b></p> 
+                        <p><i>Jun 2021 - Dec 2021</i></p> 
+                        <p>Development of a website and a mobile application
+                            my works - <a href="https://www.behance.net/abef2689">BEHANCE</a></p> 
+                    </li>
+                </ul>
+                </section>
+            
+                <section>
+                    <h3 id="Code&enspExample">Code example</h3>
+                    <p class="my_code"><code>function factorial(n) {<br>
+                        if(n &lt; 0) return null;<br>
+                        if (n &lt;= 1) return 1;<br>
+                        return n * factorial(n-1);<br>
+                      }</code>
+                    </p>
+                </section>
+            
+                <section>
+                    <h3 id="Education">Education</h3>
+                    <ul>
+                        <li>
+                            <p><b>Belarusian National Technical University</b></p>
+                            <p>Bachelor’s degree, Civil Engineering</p>
+                            <p><i>Sep 2014 - Jun 2019</i></p>
+                        </li>
+                    </ul>
+                </section>
+                <section>
+                    <h3 id="Project">Projects</h3>
+                    <p>My CV in Markdown <a href="https://kerus2014.github.io/rsschool-cv/cv">Last project</a></p>
+                </section>
+            
+            </div>
+            <div class="sections_right">
+                <section>
+                    <h3 id="Skills&Tools">Skills & Tools</h3>
+                    <ul>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>Javascript</li>
+                        <li>React Js</li>
+                        <li>Figma</li>
+                        <li>Git</li>
+                        <li>Adobe Photoshop</li>
+                        <li>Adobe XD</li>
+                        <li>Sketch</li>
+                    </ul>
+                </section>
+                <section>
+                    <h3 id="Courses">Courses</h3>
+                    <ul>
+                        <li>
+                            <p><b>RS SCHOOL</b></p>
+                            <p>Front-end developer</p>
+                            <p><i>Jun 2022 - Jan 2023</i></p>
+                        </li>
+                        <li>
+                            <p><b>IT Academy</b></p>
+                            <p>UX/UI Designer</p>
+                            <p><i>Sep 2021 - Dec 2021</i></p>   
+                        </li>
+                        <li>
+                            <p><b>IT Academy</b></p>
+                            <p>UX/UI Design Tools</p>
+                            <p><i>Jul 2021 - Sep 2021</i></p>
+                        </li>
+                    </ul>
+                </section>
+                <section>
+                    <h3 id="Language">Language</h3>
+                    <ul>
+                        <li>English (Pre-intermediate)</li>
+                        <li>Russian (native)</li>
+                    </ul>
+                </section>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="left_footer">
+            <div class="year"> &#169; 2022</div>
+            <a href="https://github.com/kerus2014" class="git">kerus2014</a>
+        </div>
+        <div class="right_footer">
+            <a href="https://rs.school/js/" class="logo">
+                <img src="https://rs.school/images/rs_school.svg" alt="logo-school">
+            </a>
+        </div>
+    </footer>
 </body>
 </html>
