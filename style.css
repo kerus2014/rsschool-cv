@@ -1,0 +1,176 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 2;
+    margin: 0;
+
+}
+ul {
+    padding-left: 0;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+    line-height: 2;
+    padding: 0;
+    margin: 0;
+}
+p {
+    margin: 0;
+    padding: 0;
+    line-height: 2;
+}
+h3 {font-style: bold;
+    font-size: 24px;
+    margin: 12px 0;
+}
+
+h1 {font-weight: 800;
+    font-size: 34px;
+    margin: 24px 0 0 0;
+}
+h2 {font-style: bold;
+    font-size: 24px;
+    margin: 0;
+}
+header {
+    width: 100%;
+    height: auto;
+    border-bottom: solid black 2px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.nav {
+    height: 100%;
+    display: flex;
+    margin: 0 auto;
+}
+.nav-list > a {
+    text-decoration: none;
+    color: #000;
+    padding: 17px 17px;
+}
+.nav-list > a:hover {
+    color: gray;  
+}
+main {
+    max-width: 1000px;
+    margin: 0 140px 40px 140px;
+    padding-bottom: 60px;
+}
+.main_info {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 40px 0 40px 0;
+}
+.profile {
+    display: flex;
+    width: calc(70% - 30px);
+}
+.profile > img {
+    width: 200px;
+    height: 200px;
+}
+.name {
+    margin-left: 40px; 
+}
+.contacts {
+    width: calc(30% - 30px);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.sections_left {
+    display: flex;
+    flex-direction: column;
+    width: calc(70% - 30px);
+}
+.sections_right {
+    display: flex;
+    flex-direction: column;
+    width: calc(30% - 30px);
+}
+.big_container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.exp_li {
+    margin: 0 0 12px 0;
+}
+.my_code {
+    padding: 20px 40px;
+    background-color: rgba(218, 216, 216, 0.432);
+    border-radius: 10px;
+    margin: 24px 0;
+}
+footer {
+    max-width: 1000px;
+    margin: 0 140px;
+    height: 100px;
+    border-top: solid black 2px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.left_footer {
+    height: 100%;
+    display: flex;
+}
+.year {
+    padding: 0 17px 0 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
+.git {
+    padding: 0 17px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+}
+.git:hover {
+    color: gray;
+    cursor: pointer;
+}
+.right_footer {
+    height: 100%;
+    padding: 20px 0 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo {
+    height: 80%;
+}
+.logo > img {
+    height: 100%;
+}
+@media (min-width: 1000px) {
+    main {
+        width: 1000px;
+        margin: 0 auto;
+    }
+    header {
+        margin: 0 auto;
+    }
+    footer {
+        width: 1000px;
+        margin: 0 auto;
+    }
+    
+}
